@@ -61,9 +61,9 @@ Sepet Sayısı Dağılımı –
 
 4️⃣ Özet ve Öneriler
 
-Hangi ürüne odaklanmalı: En çok gelir getiren ürün, şirket için seçilir.
+Hangi ürüne odaklanmalı: En çok gelir getiren ürün, şirket için seçilir.(43524799)
 
-Müşteri hedefleme: Cinsiyet ve sepet sayıları analizlerine göre reklam ve kampanyalar optimize edilebilir.
+Müşteri hedefleme: Cinsiyet ve sepet sayıları analizlerine göre reklam ve kampanyalar optimize edilebilir.(13871)
 
 Stok ve reklam: Popüler ürünler için stratejik stok ve pazarlama yatırımı önerilir.
 
